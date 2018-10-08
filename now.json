@@ -1,0 +1,5 @@
+{
+  "name": "fullstack-server",
+  "dotenv": true,
+  "public": true
+}
