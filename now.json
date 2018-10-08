@@ -1,5 +1,7 @@
 {
   "name": "fullstack-server",
-  "dotenv": true,
-  "public": true
+  "public": true,
+  "env": {
+    "ENGINE_API_KEY": "@server-tutorial-engine-key"
+  }
 }
